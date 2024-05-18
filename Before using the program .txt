@@ -1,0 +1,4 @@
+
+------------------------------BEFORE USING THE PROGRAM---------------------------------------
+
+- Install pygame python package
